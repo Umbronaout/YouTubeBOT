@@ -1,0 +1,65 @@
+{
+    "buffer": [],
+    "buffer_capacity": 6,
+    "threads": [],
+    "creating_videos": true,
+    "uploading": false,
+    "status": "Buffer full",
+    "channel_name": "Post Planet",
+    "theme": "Minecraft",
+    "cluster_length": 10,
+    "video_dimensions": [
+        1280,
+        720
+    ],
+    "voice": {
+        "voice": "en-US-AvaMultilingualNeural"
+    },
+    "voice_settings": {
+        "Angry": {
+            "voice": "en-US-AvaMultilingualNeural",
+            "pitch": "+5Hz",
+            "rate": "+10%",
+            "volume": "+20%"
+        },
+        "Happy": {
+            "voice": "en-US-AvaMultilingualNeural",
+            "pitch": "+5Hz",
+            "rate": "+10%"
+        },
+        "Sad": {
+            "voice": "en-US-AvaMultilingualNeural",
+            "pitch": "-2Hz",
+            "rate": "-15%",
+            "volume": "-30%"
+        },
+        "Confused": {
+            "voice": "en-US-AvaMultilingualNeural",
+            "pitch": "+0Hz",
+            "rate": "-10%"
+        },
+        "Excited": {
+            "voice": "en-US-AvaMultilingualNeural",
+            "pitch": "+5Hz",
+            "rate": "+15%"
+        }
+    },
+    "upload_times": [
+        "16:55",
+        "17:55",
+        "18:55"
+    ],
+    "minimal_post_length": 7000.0,
+    "sub_list": [
+        "AITAH",
+        "pettyrevenge",
+        "tifu",
+        "TalesFromRetail",
+        "AmItheAsshole",
+        "MaliciousCompliance",
+        "neighborsfromhell",
+        "EntitledPeople",
+        "JUSTNOMIL"
+    ],
+    "running": false
+}
